@@ -1,0 +1,44 @@
+_repo: A-History-of-Art-in-Chald-a--amp--Assyria-v.-1_28072
+_version: 0.1.0
+alternative_title: History of Art in Chaldaea and Assyria, v. 1
+contributor:
+  translator:
+    agent_name: Armstrong, Walter, Sir
+    alias: Armstrong, Sir Walter
+    birthdate: 1850
+    deathdate: 1918
+    gutenberg_agent_id: '33122'
+    url: http://www.gutenberg.org/2009/agents/33122
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Perrot, Georges
+    alias: Perrot, G. (Georges)
+    birthdate: 1832
+    deathdate: 1914
+    gutenberg_agent_id: '33120'
+    url: http://www.gutenberg.org/2009/agents/33120
+  - agent_name: Chipiez, Charles
+    birthdate: 1835
+    deathdate: 1901
+    gutenberg_agent_id: '33121'
+    url: http://www.gutenberg.org/2009/agents/33121
+description: ''
+gutenberg_issued: '2009-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28072'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Babylonia -- Antiquities'
+- !lcsh 'Assyria -- Antiquities'
+- !lcsh 'Art -- Assyria -- History'
+- !lcsh 'Art -- Iraq -- Babylonia'
+- !lcc 'N'
+title: A History of Art in Chaldæa & Assyria, v. 1
+url: http://www.gutenberg.org/ebooks/28072
